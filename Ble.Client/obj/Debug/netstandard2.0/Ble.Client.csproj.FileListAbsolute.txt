@@ -50,3 +50,4 @@ C:\Users\david\OneDrive\Skrivbord\Projekt\C#\IThingBLE\Ble.Client\obj\Debug\nets
 C:\Users\david\OneDrive\Skrivbord\Projekt\C#\IThingBLE\Ble.Client\obj\Debug\netstandard2.0\refint\Ble.Client.dll
 C:\Users\david\OneDrive\Skrivbord\Projekt\C#\IThingBLE\Ble.Client\obj\Debug\netstandard2.0\Ble.Client.pdb
 C:\Users\david\OneDrive\Skrivbord\Projekt\C#\IThingBLE\Ble.Client\obj\Debug\netstandard2.0\ref\Ble.Client.dll
+C:\Users\david\OneDrive\Skrivbord\Projekt\C#\IThingBLE\Ble.Client\obj\Debug\netstandard2.0\Ble.Client.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ble.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f0e481c8fcce78de126e19456c574c1575dcbc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ble.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ble.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
